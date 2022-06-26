@@ -1,0 +1,15 @@
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\exanples001.exe
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\exanples001.deps.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\exanples001.runtimeconfig.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\exanples001.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\ref\exanples001.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\bin\Debug\net6.0\exanples001.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.csproj.AssemblyReference.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.AssemblyInfoInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.AssemblyInfo.cs
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\ref\exanples001.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\exanples001\obj\Debug\net6.0\exanples001.genruntimeconfig.cache
