@@ -1,0 +1,15 @@
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.csproj.AssemblyReference.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.AssemblyInfoInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.AssemblyInfo.cs
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\examples005.exe
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\examples005.deps.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\examples005.runtimeconfig.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\examples005.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\ref\examples005.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\bin\Debug\net6.0\examples005.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\ref\examples005.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\C-sharp-Lection-1\examples005\obj\Debug\net6.0\examples005.genruntimeconfig.cache
